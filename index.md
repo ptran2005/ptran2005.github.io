@@ -19,3 +19,5 @@ My GitHub page is https://github.com/ptran2005/ptran2005.github.io.
 * Lab 12
 
     Lab 12, part 1 was one of my favorites because it was one of the more challenging labs. Even though it was challenging, finishing the lab was very rewarding. The final image was also very nice.
+
+![The gradient image from Lab 12](images/output_file.gif)
